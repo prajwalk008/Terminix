@@ -24,7 +24,7 @@ Terminix is your intelligent terminal buddy built with Node.js and the Gemini AP
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/terminix.git
+git clone https://github.com/prajwalk008/terminix.git
 cd terminix
 ```
 
