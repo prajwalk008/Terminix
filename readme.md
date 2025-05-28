@@ -2,7 +2,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![Gemini API](https://img.shields.io/badge/LLM-Gemini-blue)](https://aistudio.google.com/)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/terminix)](https://github.com/yourusername/terminix/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/prajwalk008/terminix)](https://github.com/prajwalk008/terminix/commits/main)
 
 Terminix is your intelligent terminal buddy built with Node.js and the Gemini API. It helps developers quickly generate and execute terminal commands using natural language – like magic, but in the shell.
 
